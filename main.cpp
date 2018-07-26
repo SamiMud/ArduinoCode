@@ -4,7 +4,7 @@ const int redPin = 12;
 const int bluePin = 13;
 const int redtwoPin = 7;
 const int bluetwoPin = 8;
-const int buzzerPin = 6;
+const int buzzerPin = 6; // NOTE: Buzzer didn't make it into my final product but is in the code if you want to add it in.
 
 long duration;
 int distance;
